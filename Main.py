@@ -1,4 +1,4 @@
-﻿# Inport pygame by running the code pip install pygame
+# Inport pygame by running the code pip install pygame
 
 import pygame
 import random
@@ -82,4 +82,4 @@ while running:
         ball_y = window_height // 2
 
     # Clear the window
-    window.fill((0,
+    window.fill(0)
