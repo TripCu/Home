@@ -1,8 +1,10 @@
 import turtle
+from playsound import playsound
 
 # Fix collison with left and right side including score 
 # Fix ball speed 
 # Fix controls for padels also fix smoothness 
+#use the playsound libray to make sound 
 
 # Set's up the screen
 screen = turtle.Screen()
